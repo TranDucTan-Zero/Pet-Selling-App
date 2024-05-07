@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShopPet</string>
+    <string name="intro_title"> <font color="#000000">Thế giới thú cưng</font> \n<font color="#008b86">Đồ chơi - Phụ kiện - Đồ ăn</font> \n<font color="#000000">Thú cưng của bạn</font></string>
+    <string name="intro_text">Chất lượng dịch vụ tốt nhất \nKinh nghiệm - chia sẽ \nChăm sóc thú cưng</string>
+    <string name="intro_signin">Đã có tài khoản? <font color="#008b86"> Đăng nhập</font></string>
+</resources>
+
+

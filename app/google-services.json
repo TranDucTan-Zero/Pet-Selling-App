@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298391093965",
+    "project_id": "shoppet-cb882",
+    "storage_bucket": "shoppet-cb882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298391093965:android:d0f2f58075972cb1c19f84",
+        "android_client_info": {
+          "package_name": "com.zero.shoppet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_wN6I8_y-bibUI3HWyQZRokQM-OmB-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
